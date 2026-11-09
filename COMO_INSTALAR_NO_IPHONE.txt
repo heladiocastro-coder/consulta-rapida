@@ -1,0 +1,32 @@
+CONSULTA RÁPIDA NO IPHONE (e em qualquer celular) — versão 2.6
+=================================================================
+O iPhone não roda páginas abertas de um pendrive ou do app Arquivos (só mostra o texto, sem busca
+nem calculadoras). A saída é publicar esta pasta UMA vez num endereço de internet gratuito. Depois da
+primeira abertura no Safari, a página fica guardada no aparelho e funciona sem internet, como um app.
+
+PASSO A PASSO (uma vez, pelo computador — cerca de 10 minutos)
+1. Crie uma conta gratuita em github.com (ou use a que já tem).
+2. Clique em "New repository", dê um nome (ex.: consulta-rapida), marque "Public" e crie.
+   Observação: em plano gratuito, a página publicada fica acessível a quem tiver o link (o conteúdo é
+   só a biblioteca de condutas, sem dados de pacientes). Não divulgue o link se não quiser.
+3. Na página do repositório: "Add file" → "Upload files" → arraste TODOS os arquivos desta pasta
+   (index.html, sw.js, manifest.webmanifest e os 3 ícones .png) → "Commit changes".
+4. Vá em Settings → Pages → em "Branch" escolha "main" e "/ (root)" → Save.
+5. Em 1–2 minutos aparece o endereço, algo como https://SEU-USUARIO.github.io/consulta-rapida/
+
+NO IPHONE
+6. Abra o endereço no SAFARI (precisa ser o Safari) com internet.
+7. Toque em Compartilhar (quadrado com seta) → "Adicionar à Tela de Início" → Adicionar.
+8. Abra pelo ícone novo uma vez com internet e espere carregar. Pronto: a partir daí abre sem internet.
+
+ATUALIZAR PARA UMA VERSÃO NOVA
+- Faça upload do novo conteúdo da pasta VERSAO_IPHONE por cima (mesmos nomes de arquivo).
+- No iPhone, abra o app com internet, feche e abra de novo.
+
+OBSERVAÇÕES
+- Suas edições, favoritos e "Minha rede" ficam salvos dentro do app no iPhone (separados do computador).
+  Para levar edições de um aparelho para outro use Mais → Editar biblioteca → Exportar/Importar (.json).
+- A IA da aba Evolução no iPhone só funciona no modo "IA no navegador" e pode ser lenta em aparelhos antigos.
+- Alternativas ao GitHub: Netlify (arrastar a pasta em app.netlify.com/drop) ou Cloudflare Pages.
+- Android: funciona igual pelo Chrome ("Instalar app"/"Adicionar à tela inicial"), ou abrindo o
+  ABRIR_AQUI.html direto do pendrive/arquivos.
