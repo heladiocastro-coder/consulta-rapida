@@ -1,4 +1,4 @@
-CONSULTA RÁPIDA NO IPHONE (e em qualquer celular) — versão 3.8
+CONSULTA RÁPIDA NO IPHONE (e em qualquer celular) — versão 3.17
 =================================================================
 O iPhone não roda páginas abertas de um pendrive ou do app Arquivos (só mostra o texto, sem busca
 nem calculadoras). A saída é publicar esta pasta UMA vez num endereço de internet gratuito. Depois da
